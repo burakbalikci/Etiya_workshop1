@@ -14,7 +14,7 @@ public class Q5 {
 
         System.out.println("Büyük/küçük harf duyarsız eşit mi: " + str.trim().equalsIgnoreCase(str2));
 
-        System.out.println("M ile başlıyor mu: " + str.trim().startsWith("J"));
+        System.out.println("J ile başlıyor mu: " + str.trim().startsWith("J"));
 
         System.out.println("a ile bitiyor mu: " + str.trim().endsWith("a"));
 
